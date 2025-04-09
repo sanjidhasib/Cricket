@@ -1,0 +1,2 @@
+D:/SWE project/Cricket/android/app/.cxx/Debug/1i291v4y/arm64-v8a/CMakeFiles/edit_cache.dir
+D:/SWE project/Cricket/android/app/.cxx/Debug/1i291v4y/arm64-v8a/CMakeFiles/rebuild_cache.dir
